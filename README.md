@@ -33,7 +33,7 @@ npm install
 ### 3. Set Your API Key
 
 ```bash
-cp .env.example .env
+cp .env
 # Edit .env and replace `your_api_key_here` with your actual key
 ```
 
