@@ -76,7 +76,16 @@ function AppShell() {
           <WeatherContent />
         </main>
         <footer className="py-8 text-center font-mono text-xs text-frost-300/70">
-          Powered by WeatherAPI.com · Weather Intelligence Platform
+          <span>Powered by WeatherAPI.com · Weather Intelligence Platform</span>
+          <span className="mx-2 text-frost-300/40">·</span>
+          <a
+            href="https://github.com/Arman-techiee/Weather-App.git"
+            target="_blank"
+            rel="noreferrer"
+            className="transition hover:text-frost-100"
+          >
+            Original project on GitHub
+          </a>
         </footer>
       </div>
     </div>
