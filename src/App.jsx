@@ -79,7 +79,7 @@ function AppShell() {
           <span>Powered by WeatherAPI.com · Weather Intelligence Platform</span>
           <span className="mx-2 text-frost-300/40">·</span>
           <a
-            href="https://github.com/armanroot/Weather-App.git"
+            href="https://github.com/armancore/Weather-App.git"
             target="_blank"
             rel="noreferrer"
             className="transition hover:text-frost-100"
